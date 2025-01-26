@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const ExpressError = require('./expressError');
 
 // Export the app and the server
 const server = app.listen(3000, function() {
