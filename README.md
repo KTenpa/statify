@@ -8,7 +8,7 @@ A simple Express.js app that performs statistical operations (mean, median, mode
 
 ```bash
 git clone https://github.com/KTenpa/statify.git
-cd express-calculator
+cd statify
 ```
 ### Install dependencies:
 ```bash
